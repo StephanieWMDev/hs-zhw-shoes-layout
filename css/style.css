@@ -274,17 +274,22 @@ section a {
 .deals {
   display:flex;
   column-gap: 1em;
+  min-width: 182px;
+  min
 
 }
 
 #shoe-archive {
-  max-width:33.33%;
-  padding-right: 8em;
+ 
+  padding-right: 12em;
+  
  
 }
 
 #featured-brands {
-  max-width: 66%;
+  max-width: 634px;
+  min-width:182px;
+  
 
 }
 /********** Details **********/
